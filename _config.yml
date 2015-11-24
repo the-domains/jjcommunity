@@ -1,0 +1,28 @@
+name: 'JJCommunity '
+favicon: null
+layout_spectrum: 0.6471514964941889
+typography_spectrum: 0.8658740567043424
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4535253194626421
+  lightness: 0.9392949822358787
+  saturation: 0.16960077197290957
+  rhythmicContrast: 0.41317046131007373
+purpose: []
