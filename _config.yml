@@ -1,7 +1,7 @@
 name: 'JJCommunity '
 favicon: null
-layout_spectrum: 0.49652
-typography_spectrum: 0.5462
+layout_spectrum: 0.55491
+typography_spectrum: 0.54362
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3a3a3c'
     - '#aeafb3'
     - '#b40d3e'
-  brandStrength: 1
-  lightness: 0.9392949822358787
-  saturation: 0.16960077197290957
-  rhythmicContrast: 0.41317046131007373
+  brandStrength: 0
+  lightness: 0.25
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
