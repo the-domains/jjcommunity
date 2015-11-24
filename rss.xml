@@ -4,7 +4,7 @@
         <description><![CDATA[JJCommunity ]]></description>
         <link>https://thegrid.ai/jjcommunity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 22:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 22:09:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jjcommunity/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Theme: Portraits]]></title>
@@ -12,6 +12,13 @@
             <link>https://instagram.com/p/-W4Fw4NlVq/?taken-by=jjcommunity</link>
             <guid isPermaLink="false">7016c7b8-dcee-4408-8a18-02ff4943f3a2</guid>
             <pubDate>Tue, 24 Nov 2015 22:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://s.newsweek.com/sites/www.newsweek.com/files/styles/embedded_full/public/2015/02/17/2-17-15-mobile-photo-7.jpg">]]></description>
+            <link>https://thegrid.ai/jjcommunity/photos-all-instagram-exhibition-highlights-mobile-creativit/index.html</link>
+            <guid isPermaLink="false">235f07dc-a2a8-4085-a2e2-d8f341aa8053</guid>
+            <pubDate>Tue, 24 Nov 2015 22:07:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jjcommunity/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">075ec146-032e-4a64-a36d-9477cbd44491</guid>
             <pubDate>Tue, 24 Nov 2015 19:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact Us]]></title>
-            <description><![CDATA[<article><h1>Contact Us</h1><p>Email:kevin@tagitjj.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48fd46be-b954-4031-9d71-52c6c6209bf1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jjcommunity/now-its-your-turn-to-connect/index.html</link>
-            <guid isPermaLink="false">b24fd8f3-4578-4ca6-917e-71c6a8aa45e8</guid>
-            <pubDate>Tue, 24 Nov 2015 22:05:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
