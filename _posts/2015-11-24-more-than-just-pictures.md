@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-24T21:53:04.975Z'
-dateModified: '2015-11-24T21:53:02.200Z'
+datePublished: '2015-11-24T22:14:11.698Z'
+dateModified: '2015-11-24T22:14:08.476Z'
 title: More Than Just Pictures
 author: []
 sourcePath: _posts/2015-11-24-more-than-just-pictures.md
