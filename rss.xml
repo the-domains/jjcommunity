@@ -4,7 +4,7 @@
         <description><![CDATA[JJCommunity ]]></description>
         <link>https://thegrid.ai/jjcommunity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 23:39:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 23:42:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jjcommunity/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[More Than Just Pictures]]></title>
@@ -56,18 +56,11 @@
             <pubDate>Tue, 24 Nov 2015 22:21:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://s.newsweek.com/sites/www.newsweek.com/files/styles/headline/public/2015/02/17/2-17-15-mobile-photo-1.jpg" alt="" title="">]]></description>
+            <title><![CDATA[THE NEW YORK TIMES ]]></title>
+            <description><![CDATA[<article><h1>THE NEW YORK TIMES </h1><p>FILED UNDER: Culture, Photography, Art, Museum, Instagram</p><img src="http://s.newsweek.com/sites/www.newsweek.com/files/styles/headline/public/2015/02/17/2-17-15-mobile-photo-1.jpg"></article>]]></description>
             <link>http://www.newsweek.com/photos-mobile-creativity-307589</link>
             <guid isPermaLink="false">8c82d85a-a0d8-46e5-aba3-d1e8f70adc1f</guid>
-            <pubDate>Tue, 24 Nov 2015 23:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://s.newsweek.com/sites/www.newsweek.com/files/styles/embedded_full/public/2015/02/17/2-17-15-mobile-photo-7.jpg">]]></description>
-            <link>https://thegrid.ai/jjcommunity/photos-all-instagram-exhibition-highlights-mobile-creativit/index.html</link>
-            <guid isPermaLink="false">235f07dc-a2a8-4085-a2e2-d8f341aa8053</guid>
-            <pubDate>Tue, 24 Nov 2015 22:07:54 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2015 23:42:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
