@@ -4,7 +4,7 @@
         <description><![CDATA[JJCommunity ]]></description>
         <link>https://thegrid.ai/jjcommunity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 22:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 22:13:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jjcommunity/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Theme: Portraits]]></title>
@@ -12,6 +12,20 @@
             <link>https://instagram.com/p/-W4Fw4NlVq/?taken-by=jjcommunity</link>
             <guid isPermaLink="false">7016c7b8-dcee-4408-8a18-02ff4943f3a2</guid>
             <pubDate>Tue, 24 Nov 2015 22:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://s.newsweek.com/sites/www.newsweek.com/files/styles/headline/public/2015/02/17/2-17-15-mobile-photo-1.jpg">]]></description>
+            <link>https://thegrid.ai/jjcommunity/8c82d85a-a0d8-46e5-aba3-d1e8f70adc1f/index.html</link>
+            <guid isPermaLink="false">8c82d85a-a0d8-46e5-aba3-d1e8f70adc1f</guid>
+            <pubDate>Tue, 24 Nov 2015 22:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://petapixel.com/assets/uploads/2015/11/9c43b8ca406e37327048fe450f7f62bd.jpg">]]></description>
+            <link>https://thegrid.ai/jjcommunity/5c357682-a904-477f-92f9-567cd73f9ebc/index.html</link>
+            <guid isPermaLink="false">5c357682-a904-477f-92f9-567cd73f9ebc</guid>
+            <pubDate>Tue, 24 Nov 2015 22:08:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -39,14 +53,14 @@
             <description><![CDATA[<img src="https://pbs.twimg.com/media/CUD1dOXUcAERdLD.jpg" alt="" title="">]]></description>
             <link>https://twitter.com/tagitjj/status/666802647144357889</link>
             <guid isPermaLink="false">9daf5cc0-6d6a-4e13-ab00-6e902e607902</guid>
-            <pubDate>Tue, 24 Nov 2015 22:04:52 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2015 22:13:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://pbs.twimg.com/media/CUdsJG6WsAAsJbS.jpg">]]></description>
-            <link>https://thegrid.ai/jjcommunity/f198e4cc-4150-4aed-a86f-af192c06236a/index.html</link>
+            <link>https://twitter.com/tagitjj/status/668621979197513728</link>
             <guid isPermaLink="false">f198e4cc-4150-4aed-a86f-af192c06236a</guid>
-            <pubDate>Tue, 24 Nov 2015 21:35:42 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2015 22:13:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/jjcommunity/more-than-just-pictures/index.html</link>
             <guid isPermaLink="false">9575970e-a7e5-4747-a797-74b408957f15</guid>
             <pubDate>Tue, 24 Nov 2015 21:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our Team]]></title>
-            <description><![CDATA[<article><h1>Our Team</h1><p>Josh Johnson FOUNDER | PARTNER</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01e5d2fe-beb0-4299-8fc2-ef9c06a1ddd8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jjcommunity/our-team/index.html</link>
-            <guid isPermaLink="false">d4d198aa-e2b6-4a25-bb7f-86b8f8807723</guid>
-            <pubDate>Tue, 24 Nov 2015 20:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/jjcommunity/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">075ec146-032e-4a64-a36d-9477cbd44491</guid>
-            <pubDate>Tue, 24 Nov 2015 19:55:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
