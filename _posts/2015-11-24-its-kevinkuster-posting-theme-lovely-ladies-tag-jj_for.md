@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-24T22:05:10.575Z'
-dateModified: '2015-11-24T21:56:00.357Z'
+datePublished: '2015-11-24T22:34:46.356Z'
+dateModified: '2015-11-24T22:34:41.870Z'
 author:
   - name: jjcommunity
     url: 'https://www.instagram.com/jjcommunity'
@@ -23,7 +23,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: 'Theme: Portraits'
+title: Portraits
 sourcePath: _posts/2015-11-24-its-kevinkuster-posting-theme-lovely-ladies-tag-jj_for.md
 published: true
 authors: []
@@ -36,7 +36,5 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-# **Theme: Portraits**
-
-# **Tag: \#JJ\_Forum\_1392**
+# **Portraits**
 ![it's @kevinkuster posting. Theme: Lovely Ladies Tag: #JJ_forum_1390 Photographer: @rose_78 Such a lovely lady in this photo submitted by @rose_78. Please give @rose_78 some #jj love and new followers. Thanks to @jj_editor_annie_lafillequi_. Keep submitting your images and keep scrolling #jj community @kevinkuster.](https://scontent.cdninstagram.com/hphotos-xtp1/t51.2885-15/e35/12224260_1525120281143336_1256770384_n.jpg)
