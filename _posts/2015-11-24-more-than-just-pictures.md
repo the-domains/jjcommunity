@@ -6,24 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-24T20:47:07.268Z'
-dateModified: '2015-11-24T20:46:09.789Z'
+datePublished: '2015-11-24T21:53:04.975Z'
+dateModified: '2015-11-24T21:53:02.200Z'
 title: More Than Just Pictures
 author: []
+sourcePath: _posts/2015-11-24-more-than-just-pictures.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-24-more-than-just-pictures.md
-published: true
 url: more-than-just-pictures/index.html
 _type: Article
 
 ---
 # More Than Just Pictures
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed6f8235-7b4b-4ab4-a811-eac2553c1022.jpg)
+
+We do more than just highlight amazing photographs. We keep you update with the latest and in photography news, app and camera reviews and we publish interviews with some of the most influential and ground breaking creatives in the photo industry. Plus, we also create great ways of  participating and using your talents to help other and make the world a more creative and better place to live. Create to Connect is more than just a motto, it's a way of love! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed6f8235-7b4b-4ab4-a811-eac2553c1022.jpg)
 
 # REVEIWS
 
