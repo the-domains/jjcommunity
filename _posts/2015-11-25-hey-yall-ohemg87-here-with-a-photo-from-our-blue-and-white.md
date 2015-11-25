@@ -22,8 +22,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://www.instagram.com/p/9pEupdNlcT/?taken-by=jjcommunity'
 title: "Hey y'all! @ohemg87 here with a photo from our Blue & White #jj_forum_1373. What a stunning shot by @lydiajjones! I love the colors and the unique composition. So beautiful! Go give @lydiajjones some #jj love and tell @jj_editor_sandrii thanks for finding it! Tag your Blue & White images #jj_forum_1373 and don't forget 1-2-3! Love, Emily @ohemg87"
-datePublished: '2015-11-25T04:17:15.958Z'
-dateModified: '2015-11-25T03:18:07.664Z'
+datePublished: '2015-11-25T04:17:58.361Z'
+dateModified: '2015-11-25T04:17:15.958Z'
 sourcePath: _posts/2015-11-25-hey-yall-ohemg87-here-with-a-photo-from-our-blue-and-white.md
 published: true
 inFeed: true
